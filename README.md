@@ -8,6 +8,7 @@
 - 👨‍💻 I’m currently learning Next.js and Astro.
 - 🙌 I'm looking forward to collaborate on open source projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📧 Reach out to me at: javierchmaraotto@gmail.com
 <br/>
 <br/>
 
