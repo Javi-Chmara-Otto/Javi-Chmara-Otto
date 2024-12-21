@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Chmara Otto</h1>
 <h3 align="center">UX/UI Designer and Web Developer🌟</h3>
 <br/>
-<p align="center">I am a UX/UI Designer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
+<p>I am a UX/UI Designer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
 
 <br/>
 
