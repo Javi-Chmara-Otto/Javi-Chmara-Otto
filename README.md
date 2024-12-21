@@ -45,3 +45,9 @@
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
   
 </span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Javi-Chmara-Otto&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Javi-Chmara-Otto)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Javi-Chmara-Otto&theme=material-palenight)](https://github.com/Javi-Chmara-Otto)
+</div>
